@@ -26,7 +26,7 @@ Integrating MySQL Connector/J in Java Project
 
       It enables your Java application to connect and interact with a MySQL database using SQL queries.
 
-  4  Also i attached a pic that include
+  4  Also i attached a pic MySQL Query.png that include
 
       Created a MySQL database named atm and designed essential tables such as users and transactions using SQL queries. 
       
